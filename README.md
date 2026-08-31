@@ -3,6 +3,7 @@
 ## Project Description: 
 
 Choose your own Machine Learning Adventure
+
 Due on: 10/21/2026
 
 ## Learning Objectives: 📝
