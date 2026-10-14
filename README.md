@@ -4,7 +4,7 @@
 
 Choose your own classical machine learning adventure
 
-Due on: 10/23/2026
+Due on: 10/28/2026
 
 ## Learning Objectives: 📝
 For this project, you will conduct a machine learning experiment of your own design. The write up should read like a lab report in which you should explain what you did and interpret the results. This directly addresses two of the course learning objectives stated in the syllabus:
