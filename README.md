@@ -7,9 +7,11 @@ Choose your own classical machine learning adventure
 Due on: 10/28/2026
 
 ## Learning Objectives: 📝
-For this project, you will conduct a machine learning experiment of your own design. The write up should read like a lab report in which you should explain what you did and interpret the results. This directly addresses two of the course learning objectives stated in the syllabus:
+For this project, you will conduct a machine learning experiment of your own design. The write up should read like a lab report in which you should explain what you did and interpret the results. This directly addresses following course learning objectives stated in the syllabus:
 - Students will be able to create software which utilizes machine learning programming libraries in order to conduct machine-learning-based data analysis.
 - Students will be able to develop and conduct machine-learning-based data analysis experiments, and they will be able to interpret and explain the results.
+- Students will be able to apply a variety of modeling techniques to classification, regression problems using data in different formats (such as typical structured data, text, and images).
+
 
 ## Project Description: 
 For this project, you are to identify the dataset you would like to utilize. I have provided several examples in class, but you have the option of using any dataset you can find.
@@ -43,7 +45,7 @@ You will create a Colab notebook that includes your code and results to document
     - Does normalizing your data lead to better performance? If so, why?
 4. **Analysis** [10 points]: What did you discover? What insights/recommendations do you have? What did you find that was interesting? Which model was your best model, which models didn't work well? Why do you think this is? In general, I want a discussion of your experiment, the results, and what they mean.
 5. **Bumps in the Road** [1 point]: What challenges did you encounter? How did you overcome these challenges?
-
+6. **Ethical considerations in data and modeling** [2 point]: Are there any ethical considerations should you keep in mind when deploying your classification or regression model? For example, consider dataset bias and its impact on classification systems, as well as the potential misuse of classification and regression models. So after deliberate thinking, If the answer is no, you could write that there is no concern.
 
 For full credit, your experiments should include the following models:
 - __k Nearest Neighbors__
@@ -74,7 +76,8 @@ Project #1 will be graded using the following rubric. I strongly suggest evaluat
 | 2: Data Prep                     |        /2|       /2|    | 
 | 3: Research                      |       /10|      /10|    |
 | 4: Analysis                      |       /10|      /10|    | 
-| 5: Bumps in the Road.            |        /1|       /1|    |
-| <b>Total                         |       /25|      /25|    </b>|
+| 5: Bumps in the Road            |        /1|       /1|    |
+| 6: Ethical consideration         |        /2|       /2|    |
+| <b>Total                         |       /27|      /27|    </b>|
 
 
